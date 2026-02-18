@@ -1,0 +1,14 @@
+# Python
+backend/env/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+backend/.env
+
+# Node
+frontend/node_modules/
+
+# Docker volumes (optional)
+*.log
